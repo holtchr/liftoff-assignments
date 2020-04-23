@@ -10,9 +10,9 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-*[First Wireframe](https://github.com/holtchr/liftoff-assignments/blob/master/P3-Project_Planning/Owner_Registration_Wireframe.jpg)
-*[Second Wireframe](https://github.com/holtchr/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe_-_Owner_Create_List_HH.jpg)
-*[Third Wireframe](https://github.com/holtchr/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe_homepage.jpg)
+* [First Wireframe](https://github.com/holtchr/liftoff-assignments/blob/master/P3-Project_Planning/Owner_Registration_Wireframe.jpg)
+* [Second Wireframe](https://github.com/holtchr/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe_-_Owner_Create_List_HH.jpg)
+* [Third Wireframe](https://github.com/holtchr/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe_homepage.jpg)
 
 ### Project Tracker
 
